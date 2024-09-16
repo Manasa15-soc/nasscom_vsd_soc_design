@@ -32,6 +32,10 @@ https://github.com/RTimothyEdwards/open_pdks.git
    `run_synthesis`
    ![synthesis](https://github.com/user-attachments/assets/ee3372c2-1b62-4a2e-baf4-f436948ebe25)
 
+6. To Calculate flop ratio
+   ![tcells](https://github.com/user-attachments/assets/3d9c7a45-3c62-46e4-a5a7-0b3c8e9f4b39)
+   
+
 
      
 
