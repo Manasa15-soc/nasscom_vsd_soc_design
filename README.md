@@ -34,6 +34,12 @@ https://github.com/RTimothyEdwards/open_pdks.git
 
 6. To Calculate flop ratio
    ![tcells](https://github.com/user-attachments/assets/3d9c7a45-3c62-46e4-a5a7-0b3c8e9f4b39)
+
+   ![fcells](https://github.com/user-attachments/assets/dfbde265-f726-40de-a776-55968d6501e8)
+
+   ![image](https://github.com/user-attachments/assets/bb627c2d-a748-45ca-a6eb-7e0cc717245f)
+
+
    
 
 
