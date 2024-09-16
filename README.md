@@ -3,6 +3,7 @@ VLSI SOC Design Workshop with complete RTL2GDSII flow organized by VSD in collab
 
 Open Source EDA Tools
 https://github.com/kunalg123/vsdflow.git
-
+Open Lane
+https://github.com/The-OpenROAD-Project/OpenLane.git
 Skywater 130nm PDK
 https://github.com/RTimothyEdwards/open_pdks.git
