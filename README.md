@@ -15,4 +15,4 @@ https://github.com/RTimothyEdwards/open_pdks.git
 ## Design Preparation Stage
 1. Running the OpenLane Flow Script in interactive
    
-   './flow.tcl -interactive'
+   `./flow.tcl -interactive`
