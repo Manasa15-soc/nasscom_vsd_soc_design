@@ -39,6 +39,9 @@ https://github.com/RTimothyEdwards/open_pdks.git
 
    ![image](https://github.com/user-attachments/assets/bb627c2d-a748-45ca-a6eb-7e0cc717245f)
 
+   Flop ratio = (Number of flop cells / Total number of cells) x 100
+   Flop ratio = 10.84%
+
 
    
 
