@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/993f8787-a54c-439d-b070-c73074bacd11)## nasscom_vsd_soc_design
+## nasscom_vsd_soc_design
 VLSI SOC Design Workshop with complete RTL2GDSII flow organized by VSD in collaboration with NASSCOM(Advanced Physical Design using Openlane with sky130nm. 
 
 ## Open Source EDA Tools
@@ -17,6 +17,13 @@ https://github.com/RTimothyEdwards/open_pdks.git
    
    `./flow.tcl -interactive`
 
-![openlane](https://github.com/user-attachments/assets/276bf6cc-0d22-48da-9ff5-98a2b9110e6b)
+2. Loading Openlane Package
+   `package require openlane 0.9`
+   ![openlane](https://github.com/user-attachments/assets/276bf6cc-0d22-48da-9ff5-98a2b9110e6b)
+   
+4. Design Preparation Stage
+   `prep -design picorv32a`
+   ![design_prep](https://github.com/user-attachments/assets/44218e20-525c-4b13-97ff-c954a171e62b)
 
+     
 
